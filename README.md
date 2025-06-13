@@ -3,7 +3,7 @@
 Introducing liquid glass design into SaaS Webpage. A modern React/TypeScript UI library that provides stunning liquid glass visual effects for web applications. Transform ordinary UI components into premium, depth-rich interfaces with minimal effort.
 
 
-# Live Demo (In developing)
+# Live Demo (In development)
 https://www.liquidglassstyle.com/
 
 
