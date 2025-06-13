@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="512" height="512" rx="100" fill="#2D2D2D"/>
+    
+    <!-- Centered water drop icon group -->
+    <g transform="translate(256, 256) scale(0.8)">
+        <!-- Large drop -->
+        <path d="M50 -50 C25 -20 15 10 15 40 C15 65 30 85 60 85 C90 85 110 60 110 30 C110 -15 80 -65 80 -65 S75 -80 50 -50Z" fill="#EAEAEA"/>
+        <!-- Small drop -->
+        <path d="M0 25 C-10 35 -15 48 -15 65 C-15 78 -8 87 5 87 C18 87 28 77 28 62 C28 47 15 25 15 25 S10 15 0 25Z" fill="#EAEAEA"/>
+    </g>
+</svg> 

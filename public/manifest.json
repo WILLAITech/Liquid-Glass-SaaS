@@ -1,0 +1,27 @@
+{
+  "name": "LiquidAI - AI-Powered Liquid Glass UI Generator",
+  "short_name": "LiquidAI",
+  "description": "Generate or transform any UI design into stunning liquid glass aesthetics using advanced AI technology.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#4776E6",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+} 
