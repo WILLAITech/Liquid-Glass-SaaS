@@ -11,9 +11,8 @@ https://www.liquidglassstyle.com/
 
 ## ✨ Features
 
-- 🔮 **Liquid Glass Effect**: Create beautiful frosted glass, blur, and gradient effects
+- 🔮 **Liquid Glass Effect**: Create beautiful liquid glass, blur, and gradient effects
 - 🧩 **Component Library**: Ready-to-use React components with liquid glass styling
-- 🤖 **AI-Powered Transformation**: Convert design images to liquid glass code using VLM technology
 - 🎨 **Customizable**: Extensive styling options and shader customization
 - 📱 **Responsive**: Fully responsive design that works on all devices
 - 🔧 **Framework Agnostic**: Support for React, Vue, and vanilla CSS
